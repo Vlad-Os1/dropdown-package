@@ -1,5 +1,5 @@
 {
-  "name": "@vlad-os/dropdown",
+  "name": "@vlad-os/dropdown-package",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
